@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6107FA74-A5C0-27B0-586E-E761E58CC40B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VoiceMovement.cs">
+    <Files>
+      <File FileName="Assets/VoiceMovement.cs" Line="52" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FPS voice2.2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="VoiceMovement.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b43bd6ad-2fa0-4e5e-8b78-622b7a1dafba" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
